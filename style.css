@@ -1,0 +1,41 @@
+body {
+  background-color: lightblue;
+  color: darkblue;
+  font-family: 'Trebuchet MS', Serif ;
+  margin: 10px 30px 10px 30px; /* top, right, bottom, left */
+}
+
+#myButton {
+	background-color: white;
+	color: black;
+	width: 150px;
+	height: 40px;
+}
+
+h1 {
+  font-size: 40px;
+  font-variant: small-caps;
+  color: black
+}
+h2 {
+  font-size: 40px;
+  font-variant: small-caps;
+  color: black
+}
+a {
+  color: green;
+}
+
+div {
+  border-bottom: 1px dashed blue;
+}
+
+h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.caption {
+  font-size: 12px;
+  font-style: italic;;
+}
